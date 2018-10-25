@@ -23,3 +23,7 @@ print("乘方:")
 print(2 ** 3)
 print(-3 ** 2)
 print((-3) ** 2)
+# 十六进制,八进制,二进制
+print(0xAF)
+print(0o10)
+print(0b101)
