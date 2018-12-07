@@ -1,0 +1,17 @@
+import fileinput  # 18 file2.py 1 True
+import fileinput  # 19 file2.py 2 False
+import fileinput  # 20 file2.py 3 False
+import fileinput  # 21 file2.py 4 False
+import fileinput  # 22 file2.py 5 False
+import fileinput  # 23 file2.py 6 False
+import fileinput  # 24 file2.py 7 False
+import fileinput  # 25 file2.py 8 False
+import fileinput  # 26 file2.py 9 False
+import fileinput  # 27 file2.py 10 False
+import fileinput  # 28 file2.py 11 False
+import fileinput  # 29 file2.py 12 False
+import fileinput  # 30 file2.py 13 False
+import fileinput  # 31 file2.py 14 False
+import fileinput  # 32 file2.py 15 False
+import fileinput  # 33 file2.py 16 False
+import fileinput  # 34 file2.py 17 False
